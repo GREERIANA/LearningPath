@@ -45,16 +45,20 @@ _Core compotencies span several topics, and each **topic** includes sub-topics c
 
 
 ### Course Structure
-_Each course will conform to all the following._
+_Each course will conform to all the following:_
 
 * Title and Number:
     - A descriptive title or name for the course and a corresponding number.
 
-* Summary or description:
-    - A summary of the topic of study, core competencies covered, skills learned, tools used, and estimated completion time will be provided (for each ... ) as well as links to resources and appropriate 'tags' for project tracking.
+* Summary (description):
+    - A summary of the topic of study, core competencies covered, skills learned, tools used, and estimated completion time will be provided, as well as links to resources and appropriate 'tags' for project tracking.
 
 * Course objective(s):
-    - Course objectives will be listed at the begging of the course, and in the course, module, or unit summary (when applicable). 
+    - Course objectives will be listed at the beginning of the course, and in the ending summary.
+
+* Course unit measurement & difficulty:
+    - Each course is assigned a difficult rating of beginner, intermediate, advanced, or mixed, and an estimated time for completion.
+    - For beginner level courses, one (1) unit is equal to 2 hrs of study per day, 5 days per week, or (1x-base) difficulty; For intermediate level courses, one (1) unit is equal to 4 hrs of study per day, 5 days per week, or (~2x-base) difficulty; For advanced level courses, one (1) unit is equal to 8 hrs of study per day, 5 days per week, or (~4x-base) difficulty.
 
 * Workload:
     - Frequent quizzes (compotency checks)
@@ -63,10 +67,6 @@ _Each course will conform to all the following._
     - Project, technical paper, blog post, and presentation
     - Optional reading
 
-* Course unit measurement & difficulty:
-    - Each course is assigned a difficult rating of beginner, intermediate, advanced, or mixed, and an estimated time for completion.
-    - For beginner level courses, one (1) unit is equal to 2 hrs of study per day, 5 days per week, or (1x-base) difficulty; For intermediate level courses, one (1) unit is equal to 4 hrs of study per day, 5 days per week, or (~2x-base) difficulty; For advanced level courses, one (1) unit is equal to 8 hrs of study per day, 5 days per week, or (~4x-base) difficulty.
-
 * Course progress and timeline:
     - Progress can be tracked live on a central repository > [here]()
     - Timeline > [here]()
@@ -74,8 +74,11 @@ _Each course will conform to all the following._
 
 ---
 
-### Study Sprints
+### Study Sprints & Cohorts
     - What is a sprint? See example below:
+
+### Hackathons, Open-Source Software, and IBM's Call for Code Challenge
+
 ---
 
 ## CORE COMPOTENCIES
