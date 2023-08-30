@@ -33,17 +33,17 @@ _At the conclusion of my learning path I will have gained sufficient knowledge t
 ### Program Structure
 ---
 
-_Core compotencies span several topics, and each **topic** includes sub-topics called **modules**, and for every module there will be several **units** focusing on a specific area of study. Each unit will be futher broken down into **lessons** or **lectures** with attached materials for further examination. Each course is accompanied by a "project" which includes a presentation (guided-project tutorial), a technical paper (including blog posts). If a widely-accepted certification is available for the topic, then that will be included in the module as well. For example [Core Competency > Topic > Module > Unit > Lesson > Asset.]_  
+_Core compotencies span several topics, and each **topic** includes sub-topics called **modules**, and for every module there will be several **units** focusing on a specific area of study. Each unit will be futher broken down into **lessons** or **lectures** with attached materials for further examination. Each course (which is simply a collection of modules) is accompanied by a "project" which includes a presentation (guided-project tutorial), a technical paper (including blog posts). If a widely-accepted certification is available for the topic, then that will be included in the module as well. For example [Core Competency > Topic > Module > Unit > Lesson > Asset (Artifact).]_  
+
 
 * Summary or description:
-    - Summarize the topic of study, core competencies covered, skills learned, tools used, and estimated completion time.
-    - Provide links to resources and assign tags for project tracking
+    - A summary of the topic of study, core competencies covered, skills learned, tools used, and estimated completion time will be provided (for each ... ) as well as links to resources and appropriate 'tags' for project tracking.
 
 * Course objective(s):
-    - Project, technical paper, blog post, presentation
+    - Each course with include a Project, technical paper, blog post, and presentation.
 
 * Difficulty:
-    - Each course is assigned a difficult rating or either, beginner, intermediate, advanced, or mixed. The estimated time for each course.
+    - Each course is assigned a difficult rating or either, beginner, intermediate, advanced, or mixed, and the estimated time for completion.
 
 * Course unit measurement:
     - For beginner level courses, one (1) unit is equal to 2 hrs of study per day, 5 days per week, or (1x-base) difficulty; For intermediate level courses, one (1) unit is equal to 4 hrs of study per day, 5 days per week, or (~2x-base) difficulty; For advanced level courses, one (1) unit is equal to 8 hrs of study per day, 5 days per week, or (~4x-base) difficulty.
@@ -53,10 +53,12 @@ _Core compotencies span several topics, and each **topic** includes sub-topics c
     - Timeline > [here]()
     
 * Quarter system:
-    - There will be four sessions throughout the year which coincides with the seasons for simplicities sake. Each session will last ~3 months, give or take a week. This is designed to maintain a high velocity and reduce burnout. During each session there are several "sprints" that last from 1 - 3 weeks depending on course difficulty. The object for the sprint methodology is to solely focus on one task at a time, adjust timelines depending on course comprehension, and evaluate what you can do differently for the next "sprint". This process closely matches those of major corporation, which is called "agile", and is vital to every aspiring designer and developer.
+    - There will be four sessions throughout the year which coincides with the seasons for simplicities sake. Each session will last ~3 months, give or take a week. This is designed to maintain a high velocity and reduce burnout. During each session there are several "sprints" that last from 1 - 3 weeks depending on course requirements. The object for the sprint methodology is to solely focus on one task at a time, adjust timelines depending on course comprehension, and evaluate what you can do differently for the next "sprint". This process closely matches those of major corporations, which is called "agile", and is vital to every aspiring designer and developer.
 
 * Asset management:
-    Assets are organized according to a hierarchy starting with course. Each course has its own folder which contains projects, files, and assigned tags. So, each project contains a file with the same name as the project. Included each project file is a markdown file with the same name as the project. The project file will include the project description, link to the project, state the languages and technologies used, and any other relevant information. In order to quickly find an asset, tags are assigned automatically and grouped dynamically.
+    Assets are organized according to a hierarchy starting with course. Each course has its own folder which contains projects, files, and assigned tags. So, each project contains a file with the same name as the project. Included in each project file is a markdown file with the same name as the project. The project file will include the project description, link to the project, state the languages and technologies used, and any other relevant information. In order to quickly find an asset, tags are assigned automatically and grouped dynamically. See example below:
+
+  { example }
 
 ---
 
