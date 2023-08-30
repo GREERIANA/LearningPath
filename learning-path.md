@@ -1,5 +1,5 @@
-# LEARNING PATH: INFORMATION TECHNOLOGY & ENTREPENEURSHIP
-_At the conclusion of my learning path I will have gained sufficient knowledge to plan, execute, and launch my own ecommerce business. My goal is to create two loosely-dependent pieces of software. The program goes into depth on a variety of subjects related to information technology, management, and entrepeneruship. A non-exhaustive list is as follows: User experience research methods and cognitivie psychology; Computer science and information sciences; Multi-disclininary design and design thinking in practice; Business management and global economics; Digital marketing and entrepeneurship; and Information technology management._
+# LEARNING PATH for INFORMATION TECHNOLOGY & ENTREPENEURSHIP
+_At the conclusion of the learning path I will have gained sufficient knowledge to plan, execute, and launch my own ecommerce business. My *goal* is to create an e-commerce platform, and supporting tools. The program goes into depth on a variety of subjects related to information technology, management, and entrepeneruship. A non-exhaustive list is as follows: User experience research methods and cognitivie psychology; Computer science and information sciences; Multi-disclininary design and design thinking in practice; Business management and global economics; Digital marketing and entrepeneurship; and Information technology management._
 
 ---
 # TABLE OF CONTENTS 
@@ -33,25 +33,8 @@ _At the conclusion of my learning path I will have gained sufficient knowledge t
 ### Program Structure
 ---
 
-_Core compotencies span several topics, and each **topic** includes sub-topics called **modules**, and for every module there will be several **units** focusing on a specific area of study. Each unit will be futher broken down into **lessons** or **lectures** with attached materials for further examination. Each course (which is simply a collection of modules) is accompanied by a "project" which includes a presentation (guided-project tutorial), a technical paper (including blog posts). If a widely-accepted certification is available for the topic, then that will be included in the module as well. For example [Core Competency > Topic > Module > Unit > Lesson > Asset (Artifact).]_  
+_Core compotencies span several topics, and each **topic** includes sub-topics called **modules**, and for every module there will be several **units** focusing on a specific area of study. Each unit will be futher broken down into **lessons** or **lectures** with attached materials for further examination. Each course (which is simply a collection of modules) is accompanied by a "project" which includes a presentation (guided-project tutorial), and a technical paper (including blog posts). If a widely-accepted certification is available for the topic, then that will be included in the module as well._ For example: [Core Competency > Topic > Module > Unit > Lesson > Asset (Artifact).]  
 
-
-* Summary or description:
-    - A summary of the topic of study, core competencies covered, skills learned, tools used, and estimated completion time will be provided (for each ... ) as well as links to resources and appropriate 'tags' for project tracking.
-
-* Course objective(s):
-    - Each course with include a Project, technical paper, blog post, and presentation.
-
-* Difficulty:
-    - Each course is assigned a difficult rating or either, beginner, intermediate, advanced, or mixed, and the estimated time for completion.
-
-* Course unit measurement:
-    - For beginner level courses, one (1) unit is equal to 2 hrs of study per day, 5 days per week, or (1x-base) difficulty; For intermediate level courses, one (1) unit is equal to 4 hrs of study per day, 5 days per week, or (~2x-base) difficulty; For advanced level courses, one (1) unit is equal to 8 hrs of study per day, 5 days per week, or (~4x-base) difficulty.
-
-* Course progress and timeline:
-    - Progress can be tracked live on a central repository > [here]()
-    - Timeline > [here]()
-    
 * Quarter system:
     - There will be four sessions throughout the year which coincides with the seasons for simplicities sake. Each session will last ~3 months, give or take a week. This is designed to maintain a high velocity and reduce burnout. During each session there are several "sprints" that last from 1 - 3 weeks depending on course requirements. The object for the sprint methodology is to solely focus on one task at a time, adjust timelines depending on course comprehension, and evaluate what you can do differently for the next "sprint". This process closely matches those of major corporations, which is called "agile", and is vital to every aspiring designer and developer.
 
@@ -59,6 +42,35 @@ _Core compotencies span several topics, and each **topic** includes sub-topics c
     Assets are organized according to a hierarchy starting with course. Each course has its own folder which contains projects, files, and assigned tags. So, each project contains a file with the same name as the project. Included in each project file is a markdown file with the same name as the project. The project file will include the project description, link to the project, state the languages and technologies used, and any other relevant information. In order to quickly find an asset, tags are assigned automatically and grouped dynamically. See example below:
 
   { example }
+
+
+### Course Structure
+_Each course will conform to all the following._
+
+* Title and Number:
+    - A descriptive title or name for the course and a corresponding number.
+
+* Summary or description:
+    - A summary of the topic of study, core competencies covered, skills learned, tools used, and estimated completion time will be provided (for each ... ) as well as links to resources and appropriate 'tags' for project tracking.
+
+* Course objective(s):
+    - Course objectives will be listed at the begging of the course, and in the course, module, or unit summary (when applicable). 
+
+* Workload:
+    - Frequent quizzes (compotency checks)
+    - Essay or free-form input for a "community discussion"
+    - Teach-back moments (putting theory into practice)
+    - Project, technical paper, blog post, and presentation
+    - Optional reading
+
+* Course unit measurement & difficulty:
+    - Each course is assigned a difficult rating of beginner, intermediate, advanced, or mixed, and an estimated time for completion.
+    - For beginner level courses, one (1) unit is equal to 2 hrs of study per day, 5 days per week, or (1x-base) difficulty; For intermediate level courses, one (1) unit is equal to 4 hrs of study per day, 5 days per week, or (~2x-base) difficulty; For advanced level courses, one (1) unit is equal to 8 hrs of study per day, 5 days per week, or (~4x-base) difficulty.
+
+* Course progress and timeline:
+    - Progress can be tracked live on a central repository > [here]()
+    - Timeline > [here]()
+    
 
 ---
 
