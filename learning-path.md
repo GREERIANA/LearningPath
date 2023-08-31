@@ -11,37 +11,32 @@ _At the conclusion of the learning path I will have gained sufficient knowledge 
     * Interpersonal skills 
     * Business and technical skills
     * Personal skills
-3. [TOPICS]()
+3. [MAJOR TOPICS]()
     * AI in Information Technology
     * Multi-Disciplinary design teams
     * User experience research, marketing, and psychology
     * Entrepeneurship
-3. [FOOTNOTES]()
+4. [FOOTNOTES]()
     * Books & Resources
     * Timeline & Progress
 
 
----
-
-## OVERVIEW
-
+## 1. OVERVIEW
 * [Program structure]()  
 * [Study sprints]()
 
----
-
 ### Program Structure
----
+Core compotencies span several topics, and each **topic** includes sub-topics called **modules**, and for every module there will be several **units** focusing on a specific area of study. Each unit will be futher broken down into **lessons** or **lectures** with attached materials for further examination. Each course (which is simply a collection of modules, sometimes referred to as a playlist) is accompanied by a "project" which includes a presentation (guided-project tutorial), and a technical paper (including blog posts). If a widely-accepted certification is available for the topic, then that will be included in the module as well.
 
-_Core compotencies span several topics, and each **topic** includes sub-topics called **modules**, and for every module there will be several **units** focusing on a specific area of study. Each unit will be futher broken down into **lessons** or **lectures** with attached materials for further examination. Each course (which is simply a collection of modules) is accompanied by a "project" which includes a presentation (guided-project tutorial), and a technical paper (including blog posts). If a widely-accepted certification is available for the topic, then that will be included in the module as well._ For example: [Core Competency > Topic > Module > Unit > Lesson > Asset (Artifact).]  
+> For example: [Core Competency > Topic > Module > Unit > Lesson > Asset (Artifact).]  
 
-* Quarter system:
-    - There will be four sessions throughout the year which coincides with the seasons for simplicities sake. Each session will last ~3 months, give or take a week. This is designed to maintain a high velocity and reduce burnout. During each session there are several "sprints" that last from 1 - 3 weeks depending on course requirements. The object for the sprint methodology is to solely focus on one task at a time, adjust timelines depending on course comprehension, and evaluate what you can do differently for the next "sprint". This process closely matches those of major corporations, which is called "agile", and is vital to every aspiring designer and developer.
+- Quarter system:
+    There will be four sessions throughout the year which coincides with the seasons for simplicities sake. Each session will last ~3 months, give or take a week. This is designed to maintain a high velocity and reduce burnout. During each session there are several "sprints" that last from 1 - 3 weeks depending on course requirements. The object for the sprint methodology is to solely focus on one task at a time, adjust timelines depending on course comprehension, and evaluate what you can do differently for the next "sprint". This process closely matches those of major corporations, which is called "agile", and is vital to every aspiring designer and developer.
 
-* Asset management:
+- Asset management:
     Assets are organized according to a hierarchy starting with course. Each course has its own folder which contains projects, files, and assigned tags. So, each project contains a file with the same name as the project. Included in each project file is a markdown file with the same name as the project. The project file will include the project description, link to the project, state the languages and technologies used, and any other relevant information. In order to quickly find an asset, tags are assigned automatically and grouped dynamically. See example below:
 
-  { example }
+>  { example }
 
 
 ### Course Structure
@@ -72,16 +67,18 @@ _Each course will conform to all the following:_
     - Timeline > [here]()
     
 
----
 
 ### Study Sprints & Cohorts
+---
     - What is a sprint? See example below:
 
-### Hackathons, Open-Source Software, and IBM's Call for Code Challenge
 
+### Hackathons, Open-Source Software, and IBM's Call for Code Challenge
 ---
 
-## CORE COMPOTENCIES
+
+## 2. CORE COMPOTENCIES
+---
 
 1. [Interpersonal skills]()
 2. [Business or technical skills]()
@@ -97,20 +94,41 @@ _Each course will conform to all the following:_
 
 ---
 
-## TOPIC 1: AI in INFORMATION TECHNOLOGY
+## 3. MAJOR TOPICS 
 
+    * AI in Information Technology
+    * User experience research, marketing, and psychology
+    * Multi-Disciplinary design teams
+    * Entrepeneurship (Startup Accelerator)
+
+
+### A.I. in Information Technonlogy 
 **Infuse AI into your business processes and workflows**.  
 
 ---
 
 * **Modules:**  
     - [Thinking Methods]()
+    
+    Part 1: Learning How to Learn
+    Explore different methods for memory improvement, reading comprehension, and speed. Learning how to learn and retain information is a core skill everybody needs. Begin your learning journey with the basics of neuroscience, thinking styles, and learning - notetaking techniques. 
+
+        Sections: 
         - [Creative Problem Solving]()
         - [Logic & Reasoning]()
-        - [Critical Thinking]()
+        - [Critical & Strategic Thinking]()
         - [Mathematical Thinking]()
+        - [Mental Models & Mindmapping]()
         - [Design Thinking]()
-    - [People & Soft Skills]()  
+
+    2.  [The Art of Problem Solving]()
+
+
+
+
+    - [People & Soft Skills]()
+        - [Interpersonal Communication]()
+        - [Managing Teams]()
     - [Communications: Content Strategy in Digital Marketing and E-Commerce]()  
     - [Computing Foundations]()  
     - [Applied Mathematics]()  
