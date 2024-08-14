@@ -1,2 +1,2 @@
 # LearningPath
-Learning Path for a "Build your own degree" program I created. 
+Learning Path for a "Build your own degree" program I'm creating. 
